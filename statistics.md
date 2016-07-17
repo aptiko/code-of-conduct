@@ -9,12 +9,12 @@ committee in the recent years.
 
 These statistics are compiled every 6 months by the Code of Conduct Committee.
 
-| Year | Reports | People named | Actions taken by us | Actions taken by local reps | People blacklisted or flagged | Lack of actions taken |
-|:-----|:--------|:-------------|:--------------------|:----------------------------|:------------------------------|:----------------------|
-| 2015 | 11      | 14           | 1                   | 6                           | 1                             | 4                     |
-| 2016 | 7       | 6            | 2                   | 7                           | 1                             | 0                     |
+| Year | Reports | People named | Actions taken by us | Actions taken by local reps | People blacklisted or flagged | No actions taken |
+|:-----|:--------|:-------------|:--------------------|:----------------------------|:------------------------------|:-----------------|
+| 2015 | 11      | 14           | 1                   | 6                           | 1                             | 4                |
+| 2016 | 7       | 6            | 2                   | 7                           | 1                             | 0                |
 
-Statistics were last updated on 25th May 2016.
+Statistics were last updated on 15th May 2016.
 
 - __Report__ - total number of issues reported to the Code of Conduct committee
 - __People named__ - total number of people named in the received reports
